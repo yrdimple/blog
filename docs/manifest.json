@@ -1,0 +1,15 @@
+{
+  "name": "Stay Hungry, Stay Foolish",
+  "short_name": "Stay Hungry, Stay Foolish",
+  "start_url": "/blog_liam/",
+  "scope": "/blog_liam/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/blog_liam/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

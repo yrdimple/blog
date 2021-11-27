@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/blog_liam/sw.js",{scope:"/blog_liam/"});}

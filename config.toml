@@ -1,0 +1,6 @@
+baseURL = "https://yrdimple.github.io/blog_liam/"
+languageCode = "en-us"
+title = "Stay Hungry, Stay Foolish"
+theme = "hugo-book"
+publishDir = "docs"
+
